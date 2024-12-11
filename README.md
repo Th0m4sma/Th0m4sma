@@ -1,5 +1,5 @@
-## Hey there, I'm Lucas. 👋
-I'm a developer passionate about learning new technologies. I've been working with teams in the area for 3 years developing applications on computational mathematics, Machine Learning and ReactJS.
+## Hey there, I'm Thomas. 👋
+I'm a Computer Science student at UNIFESP - SJC. I program in various programming languages and I'm actively working on Machine Learning and Data Analysis projects. Always passionate about learning new technologies and applying them in innovative ways!
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -16,6 +16,6 @@ I'm a developer passionate about learning new technologies. I've been working wi
 
 
 ## 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://th0m4sma.github.io/portifolio_thomas/index.html)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/thomas-pires-correia-84ab55226)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thomas_pcorreia/)
