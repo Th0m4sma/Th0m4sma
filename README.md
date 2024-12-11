@@ -1,5 +1,5 @@
-## Hi there 👋
- Meu nome é thomas tenho 20 anos dsafaaaaaaaaaaaaa
+## Hey there, I'm Lucas. 👋
+I'm a developer passionate about learning new technologies. I've been working with teams in the area for 3 years developing applications on computational mathematics, Machine Learning and ReactJS.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
