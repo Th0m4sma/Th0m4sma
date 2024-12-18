@@ -16,6 +16,6 @@ I'm a Computer Science student at UNIFESP - SJC. I program in various programmin
 
 
 ## 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://th0m4sma.github.io/portifolio_thomas/index.html)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://th0m4sma.github.io/portfolio_thomas/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/thomas-pires-correia-84ab55226)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thomas_pcorreia/)
