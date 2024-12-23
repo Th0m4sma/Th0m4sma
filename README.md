@@ -1,5 +1,5 @@
 ## Hey there, I'm Thomas. 👋
-I'm a Computer Science student at UNIFESP - SJC. I program in various programming languages and I'm actively working on Machine Learning and Data Analysis projects. Always passionate about learning new technologies and applying them in innovative ways!
+I'm a Computer Science student at UNIFESP. I program in various programming languages and I'm actively working on Machine Learning and Data Analysis projects. Always passionate about learning new technologies and applying them in innovative ways!
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
